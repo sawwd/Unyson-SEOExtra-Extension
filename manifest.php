@@ -11,11 +11,11 @@ $manifest['description'] = __(
 	.' It extends the default SEO Extension',
 	'fw'
 );
-$manifest['github_repo'] = 'https://github.com/sawwd/Unyson-SEO-Extra-Extension';
+$manifest['github_repo'] = 'https://github.com/sawwd/Unyson-SEOExtra-Extension';
 $manifest['author'] = 'Sawwd';
 $manifest['author_uri'] = 'http://sawwd.com/';
 $manifest['version'] = '1.0.0';
 $manifest['display'] = true;
 $manifest['standalone'] = true;
 
-$manifest['github_update'] = 'sawwd/Unyson-SEO-Extra-Extension';
+$manifest['github_update'] = 'sawwd/Unyson-SEOExtra-Extension';
